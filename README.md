@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **multiplatform00@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/kotlin-compose-multiplatform/My-assets/blob/main/Shageldi%20Resume.pdf](https://github.com/shageldi-dev/My-assets/blob/main/Shageldi%20Resume.pdf)
+- 📄 Know about my experiences [Click here to download my resume](https://github.com/kotlin-compose-multiplatform/My-assets/blob/main/Shageldi%20Alyyev%20Resume.pdf)
 
 - ⚡ Fun fact **🤓 Always learning new things**
 
