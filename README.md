@@ -13,9 +13,9 @@
 
 - 🏆 Winner of [Sanly-Cozgut-2021, Sanly-Cozgut-2022](https://www.mincom.gov.tm/tk/ads/2/)
 
-- 👨‍💻 All of my projects are available at [https://shageldi.vercel.app/](https://www.shageldi.dev)
+- 👨‍💻 All of my projects are available at [https://www.shageldi.dev](https://www.shageldi.dev)
 
-- 📝 I regularly write articles on [https://shageldi.vercel.app/blogs](https://www.shageldi.dev)
+- 📝 I regularly write articles on [https://www.shageldi.dev](https://www.shageldi.dev)
 
 - 💬 Ask me about **kotlin, compose, react, typescript and java**
 
