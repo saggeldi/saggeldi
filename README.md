@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kotlin-compose-multiplatform&label=Profile%20views&color=0e75b6&style=flat" alt="kotlin-compose-multiplatform" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kotlin-compose-multiplatform" alt="kotlin-compose-multiplatform" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saggeldi" alt="kotlin-compose-multiplatform" /></a> </p>
 
 - 🔭 I’m currently working on [Kotlin Multi Platform](https://kotlinlang.org/docs/multiplatform.html)
 
